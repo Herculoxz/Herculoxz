@@ -46,6 +46,9 @@
 </p>
 
 ---
-![Snake animation](https://github.com/herculoxz/herculoxz/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/herculoxz/herculoxz/output/snake.svg" alt="Snake animation" />
+</p>
+
 
 

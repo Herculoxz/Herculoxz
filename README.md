@@ -29,14 +29,7 @@ Using **Embox** to bring lightweight real-time OS features, and integrating **TF
   <img src="https://skillicons.dev/icons?i=c,cpp,python,pytorch,opencv,linux" />
 </p>
 
----
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=herculoxz&show_icons=true&theme=tokyonight" height="150"/>
-</p>
-
----
 
 ## 🌍 Connect with Me
 
